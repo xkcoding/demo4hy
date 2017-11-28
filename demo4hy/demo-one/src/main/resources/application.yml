@@ -1,0 +1,3 @@
+server:
+  port: 8089
+  context-path: /demo1
